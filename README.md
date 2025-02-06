@@ -4,7 +4,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Recipe Page](https://your-live-site-url.com)
+- Live Site URL: [Recipe Page](https://recipe-page-two-pi.vercel.app/)
 
 ### Built with
 
